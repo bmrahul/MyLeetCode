@@ -1,0 +1,1 @@
+print(20 if int(input('Enter your age: ')) >= 18 else 5)
